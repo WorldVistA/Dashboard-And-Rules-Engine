@@ -1,0 +1,33 @@
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.Dashboard.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.csproj.GenerateResource.Cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.FilterGeneric.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.TextDetails.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Mono.Addins.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\VS-Output\Dashboard.exe.config
+C:\VS-Output\Dashboard.exe
+C:\VS-Output\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Debug\Dashboard.FormWebsite.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.Dashboard.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.FilterGeneric.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.FormWebsite.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.TextDetails.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.csproj.GenerateResource.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Debug\Dashboard.pdb

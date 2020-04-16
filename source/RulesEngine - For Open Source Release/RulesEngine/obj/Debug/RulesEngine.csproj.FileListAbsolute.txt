@@ -1,0 +1,31 @@
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.frmEditRules.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csproj.GenerateResource.Cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.FormRule.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Debug\RulesEngine.FormSelectCohort.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Debug\Mono.Addins.dll
+C:\VS-Output\RulesEngine.exe.config
+C:\VS-Output\RulesEngine.exe
+C:\VS-Output\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.FormRule.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.FormSelectCohort.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.frmEditRules.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.csproj.GenerateResource.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.pdb

@@ -1,0 +1,34 @@
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\RulesEngine.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.FormRule.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.frmEditRules.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.csproj.GenerateResource.Cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\obj\Release\RulesEngine.FormSelectCohort.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine\RulesEngine\bin\Release\Mono.Addins.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Mono.Addins.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.FormRule.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.FormSelectCohort.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.frmEditRules.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.csproj.GenerateResource.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.pdb

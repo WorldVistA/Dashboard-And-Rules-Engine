@@ -1,0 +1,143 @@
+Select Utilities Option: build File Print
+Select BUILD NAME:    C9COS*1.0*1
+DEVICE: HOME//   TELNET   Terminal Size: 89 x 29
+PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 1
+----------------------------------------------------------------------------------------
+TYPE: SINGLE PACKAGE                               TRACK NATIONALLY: NO
+NATIONAL PACKAGE:                                ALPHA/BETA TESTING: NO
+
+DESCRIPTION:
+ Dashboard and Rules Engine
+ ;Copyright [2020] [Central Regional Hospital, State of North Carolina]
+ ;
+ ;Licensed under the Apache License, Version 2.0 (the "License")
+ ; you may not use this file except in ;compliance with the License.
+ ;You may obtain a copy of the License at
+ ;
+ ;http://www.apache.org/licenses/LICENSE-2.0
+ ;
+ ;Unless required by applicable law or agreed to in writing, software
+ ;distributed under the License is ;distributed on an "AS IS" BASIS,
+ ;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ ;See the License for the specific language governing permissions and
+ ;limitations under the License.
+
+ENVIRONMENT CHECK:                               DELETE ENV ROUTINE:
+ PRE-INIT ROUTINE:                          DELETE PRE-INIT ROUTINE:
+POST-INIT ROUTINE:                         DELETE POST-INIT ROUTINE:
+PRE-TRANSPORT RTN:
+Type <Enter> to continue or '^' to exit:
+PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 2
+
+                                           UP    SEND  DATA                USER
+                                           DATE  SEC.  COMES   SITE  RSLV  OVER
+FILE #      FILE NAME                      DD    CODE  W/FILE  DATA  PTRS  RIDE
+----------------------------------------------------------------------------------------
+
+300890      C9C RULES ENGINE               YES   YES   NO
+
+300892      C9C RULES                      YES   YES   YES     ADD   NO    YES
+
+300894      C9C DASHBOARD MODULES          YES   YES   YES     ADD   NO    YES
+
+300896      C9C DASHBOARD USER SETTINGS    YES   YES   NO
+
+ROUTINE:                                       ACTION:
+   C9CDBLB                                        SEND TO SITE
+   C9CDBUV                                        SEND TO SITE
+   C9CDIS                                         SEND TO SITE
+   C9CEXOR                                        SEND TO SITE
+   C9CFCAST                                       SEND TO SITE
+   C9CGDBM                                        SEND TO SITE
+   C9CGDIV                                        SEND TO SITE
+   C9CGPL                                         SEND TO SITE
+   C9CGPV                                         SEND TO SITE
+   C9CGSR                                         SEND TO SITE
+   C9CMODCD                                       SEND TO SITE
+   C9CMODCP                                       SEND TO SITE
+Type <Enter> to continue or '^' to exit:
+PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 3
+----------------------------------------------------------------------------------------
+   C9CMODCS                                       SEND TO SITE
+   C9CMODND                                       SEND TO SITE
+   C9CMODNT                                       SEND TO SITE
+   C9CMODPG                                       SEND TO SITE
+   C9CMODRM                                       SEND TO SITE
+   C9CMODSN                                       SEND TO SITE
+   C9CORIDE                                       SEND TO SITE
+   C9CRTRPT                                       SEND TO SITE
+   C9CSTN                                         SEND TO SITE
+   C9CTTLS                                        SEND TO SITE
+   C9CWBS                                         SEND TO SITE
+
+OPTION:                                        ACTION:
+   C9C DASHBOARD                                  SEND TO SITE
+   C9C RULES ENGINE                               SEND TO SITE
+
+SECURITY KEY:                                  ACTION:
+   INACTIVE DASHBOARD MODULES                     SEND TO SITE
+
+PARAMETER DEFINITION:                          ACTION:
+   VIEW NOTES DUE RULE APPLIED                    SEND TO SITE
+
+REMOTE PROCEDURE:                              ACTION:
+   C9C ADD RULE TO FORMULA                        SEND TO SITE
+   C9C ALL PATIENTS REMINDERS                     SEND TO SITE
+   C9C BUTTON IMAGE BYTE STRING                   SEND TO SITE
+Type <Enter> to continue or '^' to exit:
+PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 4
+----------------------------------------------------------------------------------------
+   C9C C AND R FILTERS                            SEND TO SITE
+   C9C COVERING PROVIDERS MODULE                  SEND TO SITE
+   C9C COVERING PSYCHOL MODULE                    SEND TO SITE
+   C9C COVERING SW MODULE                         SEND TO SITE
+   C9C DASHBOARD GET USER FILTERS                 SEND TO SITE
+   C9C DASHBOARD PUT USER FILTERS                 SEND TO SITE
+   C9C DASHBOARD REMINDER MODULE                  SEND TO SITE
+   C9C DASHBOARD STICKY NOTES                     SEND TO SITE
+   C9C DATAGRID COLUMN HEADERS                    SEND TO SITE
+   C9C DB MODULE NOTE TEXT                        SEND TO SITE
+   C9C DELETE FORMULA                             SEND TO SITE
+   C9C DELETE SINGLE RULE                         SEND TO SITE
+   C9C EXPIRING FOR DASHBOARD                     SEND TO SITE
+   C9C FILTER STICKY NOTES                        SEND TO SITE
+   C9C FORCE STICKY NOTE EXP                      SEND TO SITE
+   C9C FORECAST NOTES DUE                         SEND TO SITE
+   C9C GERD DRUG FILTER                           SEND TO SITE
+   C9C GET ALL APPROPRIATE TEAMS                  SEND TO SITE
+   C9C GET COHORT FOR TITLE                       SEND TO SITE
+   C9C GET CRITICAL LAB RESULTS                   SEND TO SITE
+   C9C GET DASHBOARD PREFERENCES                  SEND TO SITE
+   C9C GET DASHBOARD REMINDERS                    SEND TO SITE
+   C9C GET DIVISIONS                              SEND TO SITE
+   C9C GET FORMULAS                               SEND TO SITE
+   C9C GET PASS-THROUGH REMINDERS                 SEND TO SITE
+   C9C GET PENDING LABS                           SEND TO SITE
+Type <Enter> to continue or '^' to exit:
+PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 5
+----------------------------------------------------------------------------------------
+   C9C GET RULE NAMES                             SEND TO SITE
+   C9C GET WARDNAMES                              SEND TO SITE
+   C9C LAB DRAWS OTHER THAN SIX                   SEND TO SITE
+   C9C MISSING DSCG SUMMARIES                     SEND TO SITE
+   C9C MODULE DEFINITIONS                         SEND TO SITE
+   C9C MODULE GET NOTES DUE                       SEND TO SITE
+   C9C ND GET TEAMS                               SEND TO SITE
+   C9C NOTES DUE ALL FILTERS                      SEND TO SITE
+   C9C NOTES DUE BY TEAM                          SEND TO SITE
+   C9C ON GERD DRUGS                              SEND TO SITE
+   C9C RULES ENGINE ORD ITEMS                     SEND TO SITE
+   C9C SAVE DASHBOARD PREFERENCES                 SEND TO SITE
+   C9C SAVE NEW FORMULA                           SEND TO SITE
+   C9C SAVE RULES ENGINE UNITS                    SEND TO SITE
+   C9C SAVE RULES ENGINE WARDS                    SEND TO SITE
+   C9C SET COHORT FOR TITLE                       SEND TO SITE
+   C9C SHOW OVERRIDES                             SEND TO SITE
+   C9C UNVERIFIED FOR DASHBOARD                   SEND TO SITE
+   C9C WARDS AND UNITS                            SEND TO SITE
+
+INSTALL QUESTIONS:
+
+ Default Rebuild Menu Trees Upon Completion of Install: NO
+ Default INHIBIT LOGONs during the install: NO
+ Default DISABLE Scheduled Options, Menu Options, and Protocols: NO

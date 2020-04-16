@@ -1,0 +1,36 @@
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.Dashboard.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.csproj.GenerateResource.Cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.FilterGeneric.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.TextDetails.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Mono.Addins.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\bin\Release\Dashboard.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard\Dashboard\obj\x86\Release\Dashboard.FormWebsite.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Dashboard.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Dashboard.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Medsphere.OpenVista.Remoting.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Medsphere.OpenVista.Shared.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\bin\Release\Mono.Addins.dll
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.csprojAssemblyReference.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.Dashboard.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.FilterGeneric.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.FormWebsite.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.Properties.Resources.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.SignOn.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.TextDetails.resources
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.csproj.GenerateResource.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.csproj.CoreCompileInputs.cache
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.csproj.CopyComplete
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\Dashboard - For Open Source Release\Dashboard\obj\x86\Release\Dashboard.pdb
