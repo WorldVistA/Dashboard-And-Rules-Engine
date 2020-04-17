@@ -30,3 +30,9 @@ There are two exes:
  * `RulesEngine.exe`
 
 To run them, invoke them with the `s=` and `p=` arguments used for CPRS.
+
+# Documentation
+User and Technical documentation can be found in the documentation folder.
+
+# Reporting Issues
+Use the issue tracker in this repository.
