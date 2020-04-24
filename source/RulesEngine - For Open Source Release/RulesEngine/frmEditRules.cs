@@ -83,12 +83,12 @@ namespace RulesEngine
             
             res3 = GlobalVars.RunRPC("C9C WARDS AND UNITS", NO_ARG);
             results = Common.Split(res3);
-
+            GlobalVars.listUniqueUnits = new List<string>(); //April 21,2020 JHT
             if (results.GetLength(0) > 0)
             {
                 int arrayLen = results.GetLength(0);
                 GlobalVars.arrayWards = new string[arrayLen, 4];
-                GlobalVars.listUniqueUnits = new List<string>();
+                //GlobalVars.listUniqueUnits = new List<string>(); //commented April 21,2020 JHT
 
                 for (int i = 0; i < results.GetLength(0); i++)
                 {
@@ -127,7 +127,7 @@ namespace RulesEngine
             }
             else
             {
-                GlobalVars.arrayWards = new string[1, 3];
+                GlobalVars.arrayWards = new string[1, 4]; //April 21,2020 JHT
                 GlobalVars.arrayWards[0, 0] = "";
                 GlobalVars.arrayWards[0, 1] = "";
                 GlobalVars.arrayWards[0, 2] = "";
