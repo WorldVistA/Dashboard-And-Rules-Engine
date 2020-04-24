@@ -15,7 +15,7 @@ clinical metrics.
  5. Windows-based GUI.
 
 # Download the Install
-[Download zip here](https://github.com/WorldVistA/Dashboard-And-Rules-Engine/releases/download/1.0.0.5/GUIs-dlls-KIDs.zip).
+[Download zip here](https://github.com/WorldVistA/Dashboard-And-Rules-Engine/releases/download/1.0.0.6/GUIs-dlls-KIDs.zip).
 
 To install, load `Dashboard and Rules Engine Open Source Release.KID` into your
 VistA system, and put the exes on a Windows Machine. No installation is necessary.

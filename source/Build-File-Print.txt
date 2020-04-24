@@ -1,13 +1,20 @@
-Select Utilities Option: build File Print
-Select BUILD NAME:    C9COS*1.0*1
-DEVICE: HOME//   TELNET   Terminal Size: 89 x 29
-PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 1
-----------------------------------------------------------------------------------------
-TYPE: SINGLE PACKAGE                               TRACK NATIONALLY: NO
-NATIONAL PACKAGE:                                ALPHA/BETA TESTING: NO
+PACKAGE: C9CD*1.1*1     Apr 23, 2020 10:33 am                            PAGE 1
+-----------------------------------------------------------------------------------------------------------------------------------
+TYPE: MULTI-PACKAGE                                TRACK NATIONALLY: NO
+NATIONAL PACKAGE: C9CDB                          ALPHA/BETA TESTING: NO
 
 DESCRIPTION:
- Dashboard and Rules Engine
+Contains two single builds that must be installed in order
+
+SEQUENCE OF BUILDS:
+  1     C9CD*1.1*2                                    Required to Continue
+  2     C9CD*1.1*3                                    Required to ContinuePACKAGE: C9CD*1.1*2     Apr 23, 2020 10:33 am   PAGE 1
+-----------------------------------------------------------------------------------------------------------------------------------
+TYPE: SINGLE PACKAGE                               TRACK NATIONALLY: NO
+NATIONAL PACKAGE: C9CDB                          ALPHA/BETA TESTING: NO
+
+DESCRIPTION:
+ Dashboard and Rules Engine - package one of two required
  ;Copyright [2020] [Central Regional Hospital, State of North Carolina]
  ;
  ;Licensed under the Apache License, Version 2.0 (the "License")
@@ -22,27 +29,28 @@ DESCRIPTION:
  ;See the License for the specific language governing permissions and
  ;limitations under the License.
 
-ENVIRONMENT CHECK:                               DELETE ENV ROUTINE:
- PRE-INIT ROUTINE:                          DELETE PRE-INIT ROUTINE:
-POST-INIT ROUTINE:                         DELETE POST-INIT ROUTINE:
-PRE-TRANSPORT RTN:
-Type <Enter> to continue or '^' to exit:
-PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 2
+ENVIRONMENT CHECK:                               DELETE ENV ROUTINE: 
+ PRE-INIT ROUTINE:                          DELETE PRE-INIT ROUTINE: 
+POST-INIT ROUTINE:                         DELETE POST-INIT ROUTINE: 
+PRE-TRANSPORT RTN: 
 
                                            UP    SEND  DATA                USER
                                            DATE  SEC.  COMES   SITE  RSLV  OVER
 FILE #      FILE NAME                      DD    CODE  W/FILE  DATA  PTRS  RIDE
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
-300890      C9C RULES ENGINE               YES   YES   NO
+8925.1      TIU DOCUMENT DEFINITION        YES   NO    NO                  NO
+Partial DD: subDD: 8925.1
+            subDD: 8925.130011fld: .01
 
-300892      C9C RULES                      YES   YES   YES     ADD   NO    YES
+300890      C9C RULES ENGINE               YES   NO    NO                  
 
-300894      C9C DASHBOARD MODULES          YES   YES   YES     ADD   NO    YES
+300892      C9C RULES                      YES   NO    YES     ADD   YES   YES
 
-300896      C9C DASHBOARD USER SETTINGS    YES   YES   NO
+300896      C9C DASHBOARD USER SETTINGS    YES   NO    NO                  
 
 ROUTINE:                                       ACTION:
+   C9CALST                                        SEND TO SITE
    C9CDBLB                                        SEND TO SITE
    C9CDBUV                                        SEND TO SITE
    C9CDIS                                         SEND TO SITE
@@ -53,11 +61,11 @@ ROUTINE:                                       ACTION:
    C9CGPL                                         SEND TO SITE
    C9CGPV                                         SEND TO SITE
    C9CGSR                                         SEND TO SITE
+
+PACKAGE: C9CD*1.1*2     Apr 23, 2020 10:33 am                            PAGE 2
+-----------------------------------------------------------------------------------------------------------------------------------
    C9CMODCD                                       SEND TO SITE
    C9CMODCP                                       SEND TO SITE
-Type <Enter> to continue or '^' to exit:
-PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 3
-----------------------------------------------------------------------------------------
    C9CMODCS                                       SEND TO SITE
    C9CMODND                                       SEND TO SITE
    C9CMODNT                                       SEND TO SITE
@@ -69,6 +77,7 @@ PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 3
    C9CSTN                                         SEND TO SITE
    C9CTTLS                                        SEND TO SITE
    C9CWBS                                         SEND TO SITE
+   VEPEREX                                        SEND TO SITE
 
 OPTION:                                        ACTION:
    C9C DASHBOARD                                  SEND TO SITE
@@ -84,9 +93,6 @@ REMOTE PROCEDURE:                              ACTION:
    C9C ADD RULE TO FORMULA                        SEND TO SITE
    C9C ALL PATIENTS REMINDERS                     SEND TO SITE
    C9C BUTTON IMAGE BYTE STRING                   SEND TO SITE
-Type <Enter> to continue or '^' to exit:
-PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 4
-----------------------------------------------------------------------------------------
    C9C C AND R FILTERS                            SEND TO SITE
    C9C COVERING PROVIDERS MODULE                  SEND TO SITE
    C9C COVERING PSYCHOL MODULE                    SEND TO SITE
@@ -113,14 +119,15 @@ PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 4
    C9C GET FORMULAS                               SEND TO SITE
    C9C GET PASS-THROUGH REMINDERS                 SEND TO SITE
    C9C GET PENDING LABS                           SEND TO SITE
-Type <Enter> to continue or '^' to exit:
-PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 5
-----------------------------------------------------------------------------------------
    C9C GET RULE NAMES                             SEND TO SITE
+   C9C GET TITLES                                 SEND TO SITE
    C9C GET WARDNAMES                              SEND TO SITE
    C9C LAB DRAWS OTHER THAN SIX                   SEND TO SITE
    C9C MISSING DSCG SUMMARIES                     SEND TO SITE
    C9C MODULE DEFINITIONS                         SEND TO SITE
+
+PACKAGE: C9CD*1.1*2     Apr 23, 2020 10:33 am                            PAGE 3
+-----------------------------------------------------------------------------------------------------------------------------------
    C9C MODULE GET NOTES DUE                       SEND TO SITE
    C9C ND GET TEAMS                               SEND TO SITE
    C9C NOTES DUE ALL FILTERS                      SEND TO SITE
@@ -136,8 +143,28 @@ PACKAGE: C9COS*1.0*1     Apr 09, 2020 8:47 am                     PAGE 5
    C9C UNVERIFIED FOR DASHBOARD                   SEND TO SITE
    C9C WARDS AND UNITS                            SEND TO SITE
 
-INSTALL QUESTIONS:
+INSTALL QUESTIONS: 
 
  Default Rebuild Menu Trees Upon Completion of Install: NO
  Default INHIBIT LOGONs during the install: NO
- Default DISABLE Scheduled Options, Menu Options, and Protocols: NO
+ Default DISABLE Scheduled Options, Menu Options, and Protocols: NOPACKAGE: C9CD*1.1*3     Apr 23, 2020 10:33 am   PAGE 1
+-----------------------------------------------------------------------------------------------------------------------------------
+TYPE: SINGLE PACKAGE                               TRACK NATIONALLY: NO
+NATIONAL PACKAGE: C9CDB                          ALPHA/BETA TESTING: NO
+
+DESCRIPTION:
+Required Build two of two
+
+ENVIRONMENT CHECK:                               DELETE ENV ROUTINE: 
+ PRE-INIT ROUTINE:                          DELETE PRE-INIT ROUTINE: 
+POST-INIT ROUTINE:                         DELETE POST-INIT ROUTINE: 
+PRE-TRANSPORT RTN: 
+
+                                           UP    SEND  DATA                USER
+                                           DATE  SEC.  COMES   SITE  RSLV  OVER
+FILE #      FILE NAME                      DD    CODE  W/FILE  DATA  PTRS  RIDE
+-----------------------------------------------------------------------------------------------------------------------------------
+
+300036      C9C STICKY NOTES               YES   YES   YES     OVER  YES   YES
+
+300894      C9C DASHBOARD MODULES          YES   NO    YES     OVER  YES   YES

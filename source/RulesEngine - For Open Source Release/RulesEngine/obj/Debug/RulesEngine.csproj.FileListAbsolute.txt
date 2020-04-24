@@ -29,3 +29,6 @@ C:\VS-Output\RulesEngine.pdb
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.csproj.CopyComplete
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.exe
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Debug\RulesEngine.pdb
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Debug\RulesEngine.exe.config
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Debug\RulesEngine.exe
+\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Debug\RulesEngine.pdb

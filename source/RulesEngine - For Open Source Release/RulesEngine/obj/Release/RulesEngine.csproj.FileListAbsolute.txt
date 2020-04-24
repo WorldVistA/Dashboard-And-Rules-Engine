@@ -18,9 +18,6 @@
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.exe.config
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.exe
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\RulesEngine.pdb
-\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Medsphere.OpenVista.Remoting.dll
-\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Medsphere.OpenVista.Shared.dll
-\\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\bin\Release\Mono.Addins.dll
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.csprojAssemblyReference.cache
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.FormRule.resources
 \\ncwhhchapap05\users\jhthurber\My Documents\RulesEngine - For Open Source Release\RulesEngine\obj\Release\RulesEngine.FormSelectCohort.resources

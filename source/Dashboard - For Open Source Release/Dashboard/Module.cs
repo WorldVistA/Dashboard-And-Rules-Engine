@@ -507,7 +507,8 @@ namespace Dashboard
                 }
                 else
                 {
-                    argsAll = RpcFormatter.FormatArgs(true, new string[0]);
+                    argsAll = RpcFormatter.FormatArgs(true, "To Avoid Formatting Bug", new string[0]);
+                    //argsAll = RpcFormatter.FormatArgs(true, new string[0]); //April 22,2020 JHT
                 }                
                 string res3 = GlobalVars.RunRPC(RPCPopulateValues, argsAll);
                 string[] results = Common.Split(res3);
