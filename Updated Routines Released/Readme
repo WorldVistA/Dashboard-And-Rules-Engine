@@ -1,0 +1,5 @@
+These routines contain bug fixes and enhancements and are not included in the project zip file or in the KIDS 
+build contained therein.  These will need to be copied over the routines of the same name after the build
+is installed.  Most of the fixes in the notes due related routines are to make them work properly with new
+VistA reminders code that was enhanced to check for undesirable recursion.  However, this code will work on
+the prior code as well so go ahead and install it.
